@@ -18,3 +18,14 @@ Since Season 7 _Writing Excuses_ podcasts have ended with a prompt: a fun, short
 ## Why create a GitHub Repo?
 
 To make it easy to respond to all the prompts in an orderly fashion. I will checkout a branch in my name and put all my answers in it. Feel free to check out your own branch and do the same.
+
+If you want to clone the repo and run the scraper yourself...
+
+```bash
+virtualenv -p /usr/bin/python2.7 excuse
+source excuse/bin/activate
+pip install requests
+pip install beautifulsoup4
+```
+
+Assuming you're running OSX.
