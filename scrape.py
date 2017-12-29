@@ -38,7 +38,7 @@ def scrape_season(season):
 
     for article in soup.find_all('article'):
         (title, href, prompt) = extract_article_information(article)
-        fname = '%s/%s' % (season_dir, re.sub(r'\W+', '-', title))
+        fname = '%s/%s.md' % (season_dir, re.sub(r'\W+', '-', title))
         # Fill article markdown file
         md = open(fname, 'w+')
         md.write('# %s \n\n' % title)
