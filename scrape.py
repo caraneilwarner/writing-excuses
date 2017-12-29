@@ -30,7 +30,7 @@ def scrape_season(season):
     index.write('# Writing Excuses Season %s \n\n' % season_label)
 
     # Checklist for use in Pull Request body
-    checklist = open('checklists/season-%s' % season, 'a')
+    checklist = open('checklists/season-%s.md' % season, 'a')
     checklist.write('# Writing Excuses Season %s \n\n' % season_label)
 
     url = SEASON_URL_FORMAT % season
