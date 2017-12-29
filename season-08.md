@@ -1,4 +1,4 @@
-# Writing Excuses Season 08
+# Writing Excuses Season 8
 
 * [8.1: Microcasting](/season-08/Writing-Excuses-8-1-Microcasting.md)
 * [8.2: Hero’s Journey](/season-08/Writing-Excuses-8-2-Hero-s-Journey.md)
