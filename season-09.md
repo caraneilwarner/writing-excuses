@@ -1,4 +1,4 @@
-# Writing Excuses Season 09
+# Writing Excuses Season 9
 
 * [9.1: Chronology of a Book Deal with Eric James Stone](/season-09/Writing-Excuses-9-1-Chronology-of-a-Book-Deal-with-Eric-James-Stone.md)
 * [9.2: Hard Science Fiction with Eric James Stone](/season-09/Writing-Excuses-9-2-Hard-Science-Fiction-with-Eric-James-Stone.md)
