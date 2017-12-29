@@ -8,7 +8,7 @@ import requests
 
 from bs4 import BeautifulSoup
 
-SEASONS = range(7,13) # There were no prompts before Season 7
+SEASONS = range(7, 13) # There were no prompts before Season 7
 SEASON_URL_FORMAT = 'http://www.writingexcuses.com/category/season/season-%s'
 
 def scrape_all_seasons():
@@ -40,11 +40,11 @@ def scrape_season(season):
         (title, href, prompt) = extract_article_information(article)
         fname = '%s/%s.md' % (season_dir, re.sub(r'\W+', '-', title))
         # Fill article markdown file
-        md = open(fname, 'w+')
-        md.write('# %s \n\n' % title)
-        md.write('Listen [here](%s). \n\n' % href)
-        md.write('**Prompt:** %s' % prompt)
-        md.close()
+        markdown = open(fname, 'w+')
+        markdown.write('# %s \n\n' % title)
+        markdown.write('Listen [here](%s). \n\n' % href)
+        markdown.write('**Prompt:** %s' % prompt)
+        markdown.close()
         # Add article to season index and checklist
         index.write('* [%s](/%s) \n' % (title, fname))
         checklist.write('- [ ] %s \n' % title)
