@@ -1,0 +1,53 @@
+- [ ] 12.1: Variations on First Person 
+- [ ] 12.2: How to Nail Character Voice in First Person 
+- [ ] 12.3: Project in Depth, “Risk Assessment,” by Sandra Tayler 
+- [ ] 12.4: Hybrid Viewpoints 
+- [ ] 12.5: Literary Fiction 
+- [ ] 12.6: Variations on Third Person 
+- [ ] 12.7: Description Through the Third Person Lens 
+- [ ] 12.8 Short Stories as Exploration, with Tananarive Due 
+- [ ] 12.9: Q&A on Viewpoint 
+- [ ] 12.10: Developing Your Own, Personal Style 
+- [ ] 12.11: Diction 
+- [ ] 12.12: Words as Words, with Linda Addison 
+- [ ] 12.13: Beautiful Prose, Purple Prose 
+- [ ] 12.14: Controlling Pacing with Structure 
+- [ ] 12.15: Pacing With Chapters 
+- [ ] 12.16: Writing Crime Fiction with Brian Keene 
+- [ ] Congratulations to the winners of the 2017 scholarships! 
+- [ ] 12.17: Q&A on Style, Diction, and Paragraphing 
+- [ ] 12.18: Gendered Dialect, with J.R. Johansson 
+- [ ] 12.19: Structure on the Fly 
+- [ ] 12.20: Retrofitting Structure into a First Draft 
+- [ ] 12.21: Narrative Bumper Pool, with Bill Fawcett and Carrie Patel 
+- [ ] 12.22: Hybrid Outlining and Discovery Writing 
+- [ ] 12.23: Proposals, Pitches, and Queries 
+- [ ] 12.24: Creating Great Outlines 
+- [ ] 12.25: Hiring an Editor, with Callie Stoker 
+- [ ] 12.26: Q&A on Outlining and Discovery Writing 
+- [ ] 12.27: Choosing a Length 
+- [ ] 12.28: Trimming and Expanding 
+- [ ] 12.29: “Oh Crap, the Cops are Here!” with Joe McKinney 
+- [ ] 12.30: Tools for Writers 
+- [ ] 12.31: What Makes a Good Monster, with Courtney Alameda 
+- [ ] 12.32: Structuring a Short Piece 
+- [ ] 12.33: How to be Brief, Yet Powerful 
+- [ ] 12.34: Fulfilling the Reader’s Fantasy, with Brian McClellan 
+- [ ] 12.35: Short Fiction Markets, with Spencer Ellsworth and guest host Beth Meacham 
+- [ ] 12.36: Structuring a Mid-Length Piece 
+- [ ] 12.37: Subplots 
+- [ ] 12.38: What Do Editors Really Want, with Toni Weisskopf and Cat Rambo 
+- [ ] 12.39: Q&A on Short(er) Fiction 
+- [ ] 12.40: Structuring a Novel 
+- [ ] 12.41: Raising the Stakes 
+- [ ] 12.42: Adapting Your Stories for Game Play, with Alan Bahr 
+- [ ] 12.43: Serialized Storytelling 
+- [ ] 12.44: NaNoWriMo 2017 Primer 
+- [ ] 12.45: Structuring a Series 
+- [ ] 12.46: Reinventing Yourself 
+- [ ] 12.47: Screenwriting and the Writers Room, with JD Payne 
+- [ ] 12.48: Q&A on Novels and Series, with Brian McClellan 
+- [ ] 12.49: Non-linear Narratives 
+- [ ] 12.50: Form and Function 
+- [ ] 12.51: Constructed Languages, with Dirk Elzinga 
+- [ ] 12.52: Cross-Genres as Gateways 
