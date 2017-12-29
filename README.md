@@ -17,4 +17,4 @@ Since Season 7 _Writing Excuses_ podcasts have ended with a prompt: a fun, short
 
 ## Why create a GitHub Repo?
 
-To make it easy to respond to all the prompts in an orderly fashion. I'll be responding to prompts a season at a time via PRs like [this one](https://github.com/carawarner/writing-excuses/pull/1). I won't merge that PR, however, because I want the repo to stay forkable. Feel free to fork it and add your responses straight into your copy of the repo.
+To make it easy to respond to all the prompts in an orderly fashion. I will checkout a branch in my name and put all my answers in it. Feel free to check out your own branch and do the same.
