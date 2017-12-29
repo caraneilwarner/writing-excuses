@@ -1,4 +1,4 @@
-# Writing Excuses Season 07
+# Writing Excuses Season 7
 
 * [7.1 When Good Characters Go Bad](/season-07/Writing-Excuses-7-1-When-Good-Characters-Go-Bad.md) 
 * [7.2: World Building Flora and Fauna](/season-07/Writing-Excuses-7-2-World-Building-Flora-and-Fauna.md)
