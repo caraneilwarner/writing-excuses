@@ -1,4 +1,4 @@
-# Writing Excuses 9.54: Capstone to Season 9 
+# 9.54: Capstone to Season 9 
 
 Listen [here](http://www.writingexcuses.com/2014/12/29/writing-excuses-9-54-capstone-to-season-9/). 
 

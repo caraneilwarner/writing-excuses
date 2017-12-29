@@ -1,4 +1,4 @@
-# Writing Excuses 9.12: Microcasting! Twice in a row! 
+# 9.12: Microcasting! Twice in a row! 
 
 Listen [here](http://www.writingexcuses.com/2014/03/23/writing-excuses-9-12-microcasting-twice-in-a-row/). 
 

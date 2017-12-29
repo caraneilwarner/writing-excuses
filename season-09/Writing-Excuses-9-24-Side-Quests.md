@@ -1,4 +1,4 @@
-# Writing Excuses 9.24: Side Quests 
+# 9.24: Side Quests 
 
 Listen [here](http://www.writingexcuses.com/2014/06/09/writing-excuses-9-24-side-quests/). 
 

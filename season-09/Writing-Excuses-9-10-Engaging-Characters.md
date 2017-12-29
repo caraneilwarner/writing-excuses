@@ -1,4 +1,4 @@
-# Writing Excuses 9.10: Engaging Characters 
+# 9.10: Engaging Characters 
 
 Listen [here](http://www.writingexcuses.com/2014/03/09/writing-excuses-9-10-engaging-characters/). 
 

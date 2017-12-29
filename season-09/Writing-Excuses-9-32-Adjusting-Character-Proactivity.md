@@ -1,4 +1,4 @@
-# Writing Excuses 9.32: Adjusting Character Proactivity 
+# 9.32: Adjusting Character Proactivity 
 
 Listen [here](http://www.writingexcuses.com/2014/08/03/writing-excuses-9-32-adjusting-character-proactivity/). 
 

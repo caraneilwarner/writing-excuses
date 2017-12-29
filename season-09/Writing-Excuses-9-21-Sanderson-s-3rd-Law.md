@@ -1,4 +1,4 @@
-# Writing Excuses 9.21: Sanderson’s 3rd Law 
+# 9.21: Sanderson’s 3rd Law 
 
 Listen [here](http://www.writingexcuses.com/2014/05/18/writing-excuses-9-21-sandersons-3rd-law/). 
 

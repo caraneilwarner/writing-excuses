@@ -1,4 +1,4 @@
-# Writing Excuses 9.23: World Building Without Breaking Viewpoint 
+# 9.23: World Building Without Breaking Viewpoint 
 
 Listen [here](http://www.writingexcuses.com/2014/06/01/writing-excuses-9-23-world-building-without-breaking-viewpoint/). 
 

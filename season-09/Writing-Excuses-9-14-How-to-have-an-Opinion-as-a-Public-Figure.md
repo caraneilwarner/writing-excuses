@@ -1,4 +1,4 @@
-# Writing Excuses 9.14: How to have an Opinion as a Public Figure 
+# 9.14: How to have an Opinion as a Public Figure 
 
 Listen [here](http://www.writingexcuses.com/2014/04/03/writing-excuses-9-14-how-to-have-an-opinion-as-a-public-figure/). 
 

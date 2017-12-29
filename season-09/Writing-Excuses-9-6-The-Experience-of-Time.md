@@ -1,4 +1,4 @@
-# Writing Excuses 9.6: The Experience of Time 
+# 9.6: The Experience of Time 
 
 Listen [here](http://www.writingexcuses.com/2014/02/09/writing-excuses-9-6-the-experience-of-time/). 
 

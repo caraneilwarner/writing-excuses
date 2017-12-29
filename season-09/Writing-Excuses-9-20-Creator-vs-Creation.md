@@ -1,4 +1,4 @@
-# Writing Excuses 9.20: Creator vs Creation 
+# 9.20: Creator vs Creation 
 
 Listen [here](http://www.writingexcuses.com/2014/05/11/writing-excuses-9-20-creator-vs-creation/). 
 

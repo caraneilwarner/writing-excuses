@@ -1,4 +1,4 @@
-# Writing Excuses 9.50: Writing for the Enfranchised Reader 
+# 9.50: Writing for the Enfranchised Reader 
 
 Listen [here](http://www.writingexcuses.com/2014/12/04/writing-excuses-9-50-writing-for-the-enfranchised-reader/). 
 

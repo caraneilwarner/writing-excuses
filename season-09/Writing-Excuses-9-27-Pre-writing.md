@@ -1,4 +1,4 @@
-# Writing Excuses 9.27: Pre-writing 
+# 9.27: Pre-writing 
 
 Listen [here](http://www.writingexcuses.com/2014/06/29/writing-excuses-9-27-pre-writing/). 
 

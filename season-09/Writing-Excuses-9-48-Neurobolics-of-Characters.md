@@ -1,4 +1,4 @@
-# Writing Excuses 9.48: Neurobolics of Characters 
+# 9.48: Neurobolics of Characters 
 
 Listen [here](http://www.writingexcuses.com/2014/11/30/writing-excuses-9-48-neurobolics-of-characters/). 
 

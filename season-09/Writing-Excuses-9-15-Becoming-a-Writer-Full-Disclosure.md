@@ -1,4 +1,4 @@
-# Writing Excuses 9.15: Becoming a Writer—Full Disclosure 
+# 9.15: Becoming a Writer—Full Disclosure 
 
 Listen [here](http://www.writingexcuses.com/2014/04/06/writing-excuses-9-15-becoming-a-writerfull-disclosure/). 
 

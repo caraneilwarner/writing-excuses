@@ -1,4 +1,4 @@
-# Writing Excuses 9.25: Adjusting Character Sympathy 
+# 9.25: Adjusting Character Sympathy 
 
 Listen [here](http://www.writingexcuses.com/2014/06/15/writing-excuses-9-25-adjusting-character-sympathy/). 
 

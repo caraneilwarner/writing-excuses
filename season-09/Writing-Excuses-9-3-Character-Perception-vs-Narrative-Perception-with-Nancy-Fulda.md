@@ -1,4 +1,4 @@
-# Writing Excuses 9.3: Character Perception vs. Narrative Perception with Nancy Fulda 
+# 9.3: Character Perception vs. Narrative Perception with Nancy Fulda 
 
 Listen [here](http://www.writingexcuses.com/2014/01/19/writing-excuses-9-3-character-perception-vs-narrative-perception-with-nancy-fulda/). 
 

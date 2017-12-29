@@ -1,4 +1,4 @@
-# Writing Excuses 9.8: When is your Handwavium Good Enough? 
+# 9.8: When is your Handwavium Good Enough? 
 
 Listen [here](http://www.writingexcuses.com/2014/02/23/writing-excuses-9-8-when-is-your-handwavium-good-enough/). 
 

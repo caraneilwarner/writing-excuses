@@ -1,4 +1,4 @@
-# Writing Excuses 9.11: Microcasting 
+# 9.11: Microcasting 
 
 Listen [here](http://www.writingexcuses.com/2014/03/16/writing-excuses-9-11-microcasting/). 
 

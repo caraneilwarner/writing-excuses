@@ -1,4 +1,4 @@
-# Writing Excuses 9.1: Chronology of a Book Deal with Eric James Stone 
+# 9.1: Chronology of a Book Deal with Eric James Stone 
 
 Listen [here](http://www.writingexcuses.com/2014/01/05/writing-excuses-9-1-chronology-of-a-book-deal-with-eric-james-stone/). 
 

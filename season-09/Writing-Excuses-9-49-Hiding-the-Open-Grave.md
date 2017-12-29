@@ -1,4 +1,4 @@
-# Writing Excuses 9.49: Hiding the Open Grave 
+# 9.49: Hiding the Open Grave 
 
 Listen [here](http://www.writingexcuses.com/2014/11/23/writing-excuses-9-49-hiding-the-open-grave/). 
 

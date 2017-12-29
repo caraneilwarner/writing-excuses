@@ -1,4 +1,4 @@
-# Writing Excuses 9.47: Conversation With a Bookseller 
+# 9.47: Conversation With a Bookseller 
 
 Listen [here](http://www.writingexcuses.com/2014/11/17/writing-excuses-9-47-conversation-with-a-bookseller/). 
 

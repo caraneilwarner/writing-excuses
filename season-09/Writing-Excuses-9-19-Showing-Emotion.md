@@ -1,4 +1,4 @@
-# Writing Excuses 9.19: Showing Emotion 
+# 9.19: Showing Emotion 
 
 Listen [here](http://www.writingexcuses.com/2014/05/04/writing-excuses-9-19-showing-emotion/). 
 

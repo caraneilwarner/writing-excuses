@@ -1,4 +1,4 @@
-# Writing Excuses 9.41: Fan Writing, with Christopher J. Garcia 
+# 9.41: Fan Writing, with Christopher J. Garcia 
 
 Listen [here](http://www.writingexcuses.com/2014/10/05/writing-excuses-9-41-fan-writing/). 
 
